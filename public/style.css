@@ -1,0 +1,125 @@
+/* body {
+  margin: 0;
+  background: #222;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background: #ffffff;
+  height: 100px;
+}
+
+header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.logo {
+  float: left;
+  margin-top: 35px;
+  width: 240px;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  padding-left: 25px;
+  width: 130px;
+  text-align: center;
+  position: relative;
+  padding-top: 40px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #222;
+}
+
+nav a:hover {
+  color: rgb(184, 0, 0);
+}
+
+nav a::before {
+  content: "";
+  display: block;
+  height: 5px;
+  width: 100%;
+  background-color: rgb(184, 0, 0);
+  position: absolute;
+  top: 0;
+  width: 0%;
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+.gmcdesc {
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  border: 4px white;
+  align-items: center;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.aboutimg {
+  width: 85%;
+  border: 4px white;
+  align-items: center;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+body h1 {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+}
+
+.contbackground {
+  background-image: url(https://cdn.discordapp.com/attachments/851355618643017740/938067892124127274/unknown.png);
+  width: 1350px;
+  height: 800px;
+  border: 4px white;
+  align-items: center;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-top: 50px;
+}
+
+.btn {
+  background-color: #ffffff;
+  color: rgb(255, 255, 255);
+  height: 50px;
+  width: 250px;
+  font-family: "Work Sans", sans-serif;
+  font-size: xx-large;
+  border: 2px solid rgb(255, 255, 255);
+  margin-top: 550px;
+  margin-left: 300px;
+  background-color: transparent;
+}
+
+.btn:hover {
+  color: rgb(167, 0, 0);
+  background-color: rgb(255, 255, 255);
+} */
